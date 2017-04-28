@@ -1,10 +1,14 @@
+body {
+	margin: 0;
+}
+
 .blue {
 	color:cyan;
 	background-color: black;
 }
 
 div {
-	height: 700px;
+	height: 800px;
 	background-image: url(http://www.desktopimages.org/pictures/2013/1023/1/orig_47517.jpg);
 	background-position: center;
 	background-size: cover;
